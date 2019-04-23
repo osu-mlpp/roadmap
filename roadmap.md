@@ -1,5 +1,5 @@
 # Goal
-The goal of this project is to try to define a more accurate way to define a score's pp value on a map using existing map statistics and machine learning.
+The goal of this project is to try to define a more accurate way to evaluate a score's pp value on a map using existing map statistics and machine learning.
 
 
 # General Algorithm Structure
