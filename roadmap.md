@@ -1,6 +1,8 @@
-# Goal and Estimated Algorithm Parts
+# Goal
 The goal of this project is to try to define a more accurate way to define a score's pp value on a map using existing map statistics and machine learning.
 
+
+# General Algorithm Structure
 The whole final MLpp project should consist of the following parts :
 1. Data to % curve stats
 2. % curve stats to pp estimation and estimated estimation accuracy
@@ -10,12 +12,9 @@ The whole final MLpp project should consist of the following parts :
 6. Neural network to output pp from a beatmap (trained by the generated estimations)
 7. (Potentially) a pp estimator from a few neural network pp samples to improve real time pp estimation performances
 
-Bellow is the roadmap of things left to do.
-
-Note : Those parts and tasks are not needed to be done in order, and doing them in parallel should help advancing faster in the project.
 
 # Roadmap (Things to do)
-
+Note : Those parts and tasks are not needed to be done in order, and doing them in parallel should help advancing faster in the project.
 
 ## Part 1 - Theory
 
