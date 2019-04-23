@@ -1,2 +1,2 @@
 # roadmap
-Roadmap for the ML pp Research Project
+Roadmap for the MLpp (Machine Learning pp) Research Project
