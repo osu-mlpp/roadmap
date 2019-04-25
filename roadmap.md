@@ -15,7 +15,7 @@ The whole final MLpp project should consist of the following parts :
 # Roadmap (Things to do)
 Note : Those parts and tasks are not needed to be done in order, and doing them in parallel should help advancing faster in the project.
 
-At the end of each task is added a time needed estimation and objective.
+At the end of each task is added an estimated time needed and finalisation date objective.
 
 ## Part 1 - Theory
 
