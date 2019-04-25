@@ -8,8 +8,7 @@ The whole final MLpp project should consist of the following parts :
 2. % curve stats to pp estimation and estimated estimation accuracy
 3. Generate new db with pp data from the new estimated pp values
 4. Iterate multiple time on the new data to improve estimations
-5. Build a Neural network to output
-6. Neural network to output pp from a beatmap (trained by the generated estimations)
+6. Neural network to output pp from a beatmap (trained by the statistically generated estimations)
 7. (Potentially) a pp estimator from a few neural network pp samples to improve real time pp estimation performances
 
 
