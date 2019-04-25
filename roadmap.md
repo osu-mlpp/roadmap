@@ -4,7 +4,7 @@ The goal of this project is to try to define a more accurate way to evaluate a s
 
 # General Algorithm Structure
 The whole final MLpp project should consist of the following parts :
-1. Data to % curve stats
+1. Data to % curve stats (for scores on maps or map portions)
 2. % curve stats to pp estimation and estimated estimation accuracy
 3. Generate new db with pp data from the new estimated pp values
 4. Iterate multiple time on the new data to improve estimations
